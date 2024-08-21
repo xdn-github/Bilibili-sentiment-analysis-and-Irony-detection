@@ -6,6 +6,7 @@ Automated Sentiment Analysis and Irony Detection Tool for Bilibili Video Comment
 这个项目还没做完
 
 # Result Figures
+在用户输入BV号后能得到的结果图片如下
 ## 1. Word Cloud
 对爬虫结果的热词做词云
 ![727c8fcf0af7788e665388e476734cc](https://github.com/user-attachments/assets/b0f85e77-fd85-4b8d-8e0f-b451d0f9c432)
