@@ -1,6 +1,7 @@
 # Bilibili-sentiment-analysis-and-Irony-detection
 Automated Sentiment Analysis and Irony Detection Tool for Bilibili Video Comments
 对B站的评论进行讽刺(主要是原神的评论)和情感分析，并在网页中返回结果，仓库包含已经爬取和标注的2400+数据集
+~~其实这个主要是检查原神评论的串子和反讽的~~
 
 # 🎈This Project is still on progress and remains NOT finished🎈
 这个项目还没做完
